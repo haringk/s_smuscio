@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-05-24 13:23+0200\n"
+"PO-Revision-Date: 2021-05-24 13:24+0200\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "X-Generator: Poedit 2.4.2\n"
 "Last-Translator: \n"
@@ -448,7 +448,7 @@ msgstr ""
 
 #: app/class-media-library.php:470
 msgid "Already optimized"
-msgstr "È stato già ottimizzato."
+msgstr "È stato già ottimizzato"
 
 #. translators: %1$s: bytes savings, %2$s: percentage savings, %3$d: number of
 #. images
@@ -1671,7 +1671,7 @@ msgstr "Blog"
 
 #: app/views/lazyload/meta-box.php:360
 msgid "Pages"
-msgstr "Pagine:"
+msgstr "Pagine"
 
 #: app/views/lazyload/meta-box.php:371
 msgid "Posts"
@@ -2996,7 +2996,7 @@ msgstr ""
 
 #: core/class-core.php:388
 msgid "images optimized"
-msgstr "Immagini ottimizzate"
+msgstr "immagini ottimizzate"
 
 #: core/class-core.php:390 core/modules/class-dir.php:1287
 #: core/modules/class-dir.php:1299
